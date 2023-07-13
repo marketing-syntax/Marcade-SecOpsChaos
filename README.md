@@ -15,3 +15,5 @@ Can you sneak out of the office on Friday at 2:30? Or does something unforeseen 
 Sec Ops Chaos, helping security services marketing, without being obtrusive in your inbox.
 
 *Quick notes on usability. The music is set to mute on each screen by default, just in case you're playing at work and forgot your headset. ESC will pause the game so you can resume at your leisure*
+
+**Other quick note, we are not yet setup for mobile friendly gameplay, apparently WebGL doesn't behave well on anything but the highest end phones, so we're still investigating how to get you playing without forcing a significant cost increase to your mobility bill**
