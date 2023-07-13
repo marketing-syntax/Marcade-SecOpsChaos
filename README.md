@@ -13,3 +13,5 @@ Pickup any spare coffees you find laying around, it helps a little but even a li
 Can you sneak out of the office on Friday at 2:30? Or does something unforeseen have other plans for you?
 
 Sec Ops Chaos, helping security services marketing, without being obtrusive in your inbox.
+
+*Quick notes on usability. The music is set to mute on each screen by default, just in case you're playing at work and forgot your headset. ESC will pause the game so you can resume at your leisure*
